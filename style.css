@@ -109,7 +109,7 @@ h2 {
     font-weight: 600;
     border-bottom: 3px solid var(--accent-color);
     padding-bottom: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .objective p,
@@ -128,7 +128,7 @@ h2 {
     padding: 25px;
     border-radius: var(--border-radius);
     border: 1px solid #e0e0e0;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
 .experience-item:hover,
@@ -195,4 +195,3 @@ h2 {
     margin-bottom: 0;
 }
 
-/* Font Awesome Icons via CDN handled in HTML */
